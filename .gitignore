@@ -31,7 +31,6 @@ _testmain.go
 /docker/build/
 /github.com/
 .idea
-.vscode
 
 scm-source.json
 
@@ -102,3 +101,5 @@ e2e/tls
 *.pot
 
 mocks
+config.bat
+node_modules
