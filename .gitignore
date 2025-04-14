@@ -31,7 +31,6 @@ _testmain.go
 /docker/build/
 /github.com/
 .idea
-.vscode
 
 scm-source.json
 
@@ -106,3 +105,5 @@ mocks
 ui/.npm/
 
 .DS_Store
+config.bat
+node_modules
